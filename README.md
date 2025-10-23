@@ -1,14 +1,20 @@
 # Assignment-3B-Submission---Test-and-Discover-the-Bugs
 
 Learning goals
+
 •	Practice reading unfamiliar code 
 •	Practice writing high-quality JUnit 5 tests 
 •	Practice designing tests for high code coverage
 •	Experience test-driven bug discovery and reporting
+
 Timeline
+
 •	Due: Tuesday, Oct 21, 2025 11:59 pm
+
 Description
+
 To give everyone an opportunity to practice writing JUnit 5 test cases and to discover the bugs, you will do this assignment (Assignment 3B) individually. Here is what you need to do:
+
 1.	Clone your assigned program, set it up, and run it.
 2.	Write JUnit 5 tests for the code. Don’t forget to comment your test classes. Each class should have the author information and other javadoc and regular comments.
 3.	Discover the bugs through the tests!
